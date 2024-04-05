@@ -71,7 +71,7 @@ const Order =()=>{
                   <div className='m-7 text-sm  text-white'>
                     <p className=''>EXPRESS</p>
                     <p>11/24</p>
-                  </div>
+              </div>	
                   <div className='m-7 text-sm  text-white'>
                     <p className=' text-sm text-white'>CYY</p>
                     <p>123</p>
